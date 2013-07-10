@@ -1,0 +1,6 @@
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja.DAL\bin\Debug\Loja.DAL.dll
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja.DAL\bin\Debug\Loja.DAL.pdb
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja.DAL\obj\Debug\Loja.DAL.dll
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja.DAL\obj\Debug\Loja.DAL.pdb
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja.DAL\bin\Debug\Loja.DAL.dll.config

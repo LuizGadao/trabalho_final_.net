@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja", "Loja\Loja.csproj", "{320A45F0-A1EC-4E28-A3D8-418817DAE322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.DAL", "Loja.DAL\Loja.DAL.csproj", "{D0F55AF0-E986-4709-A49C-AA7B37519851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{320A45F0-A1EC-4E28-A3D8-418817DAE322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320A45F0-A1EC-4E28-A3D8-418817DAE322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320A45F0-A1EC-4E28-A3D8-418817DAE322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320A45F0-A1EC-4E28-A3D8-418817DAE322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F55AF0-E986-4709-A49C-AA7B37519851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F55AF0-E986-4709-A49C-AA7B37519851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F55AF0-E986-4709-A49C-AA7B37519851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F55AF0-E986-4709-A49C-AA7B37519851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

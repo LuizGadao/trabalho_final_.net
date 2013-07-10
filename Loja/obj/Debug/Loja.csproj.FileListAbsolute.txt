@@ -1,0 +1,16 @@
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\bin\Debug\Loja.exe
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\bin\Debug\Loja.pdb
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\ResolveAssemblyReference.cache
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.Cache
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.exe
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.pdb
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.FrmPrincipal.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\bin\Debug\Loja.DAL.dll
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\bin\Debug\Loja.DAL.pdb
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.FrmCategoria.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.FrmProduto.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.FrmProdutoPorCategoria.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.Relatorio.FormRelatorioProdutosPorCategoria.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\obj\Debug\Loja.Relatorio.FrmParametroProdutosPorCategoria.resources
+D:\L.C\NET\C#\Bruno\loja\Loja\Loja\bin\Debug\Loja.exe.config
